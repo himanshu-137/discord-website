@@ -1,7 +1,7 @@
 # multiverse-development-website
 Multiverse Development website
 
-live website [Multiverse Development](https://himanshu-137.github.io/multiverse-development-website/)
+live website [Multiverse Development](https://himanshu-137.github.io/discord-website/)
 
 Welcome to Multiverse Development, a server dedicated to all things development and chill! Whether you're a seasoned developer or just starting out, our community is the perfect place to share your knowledge, get help with your projects, and connect with like-minded individuals.
 
